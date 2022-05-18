@@ -1,0 +1,30 @@
+{
+    "Thomas Coco": {
+        "age": 22,
+        "mail": "thomas.coco@ipsa.fr"
+    },
+    "Frero de Jean": {
+        "age": 0,
+        "mail": "fero.de-jean@ipsa.fr"
+    },
+    "Mortier Capricano": {
+        "age": 15,
+        "mail": "mortier.capricano@ipsa.fr"
+    },
+    "Portera Cati": {
+        "age": 5,
+        "mail": "portera.cati@ipsa.fr"
+    },
+    "Raryfime Geatre": {
+        "age": 200,
+        "mail": "raryfime.geatre@ipsa.fr"
+    },
+    "Polo Delte": {
+        "age": 1500,
+        "mail": "polo.delte@ipsa.fr"
+    },
+    "Thor": {
+        "age": 5500,
+        "mail": "thor@ipsa.fr"
+    }
+}
